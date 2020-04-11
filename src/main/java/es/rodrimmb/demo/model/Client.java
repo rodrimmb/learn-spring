@@ -9,7 +9,7 @@ import java.util.UUID;
 
 @Builder
 @Value
-public class User {
+public class Client {
 
     @JsonProperty("id")
     private final UUID id;
