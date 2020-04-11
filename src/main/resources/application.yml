@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/rainbow_database
+    username: unicorn_user
+    password: magical_password
+    pool-size: 30
